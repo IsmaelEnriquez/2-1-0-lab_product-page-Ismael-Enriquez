@@ -1,0 +1,41 @@
+h1 {
+  border: 1px solid blueviolet;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.email-container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: auto; 
+}
+
+input[type="text"] {
+  width: 15rem;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: rgb(255, 171, 2);
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.service-container {
+  border: 1px solid aqua;
+  padding: 4rem;
+}
+
+
+.video-container {
+  border: 1px solid brown;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+}
