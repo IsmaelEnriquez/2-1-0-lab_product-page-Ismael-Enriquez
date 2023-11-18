@@ -6,12 +6,10 @@
 }
 
 header {
-  border: 1px solid red;
   padding: 1rem;
 }
 
 img {
-  border: 1px solid green;
   height: 2rem;
   width: 15rem;
   align-self: center;

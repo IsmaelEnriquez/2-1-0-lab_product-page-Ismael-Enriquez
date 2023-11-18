@@ -1,12 +1,10 @@
 nav {
-  border: 1px solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .links {
-  border: 1px solid blue;
   display: flex;
   justify-content: space-around;
   width: 30rem;
@@ -23,6 +21,7 @@ a {
     align-items: center; 
   }
 }
+
 @media (max-width: 600px) {
   .links {
     flex-direction: column;

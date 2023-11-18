@@ -1,5 +1,5 @@
 #service-cards {
-  border: 1px solid red;
+
   padding: 4.98em;
   margin: 0;
   display: flex;
@@ -52,10 +52,7 @@ footer {
   align-items: end;
 }
 
-
-
 .terms-of-service {
-  border: 1px solid darkblue;
   background-color: grey;
   display: flex;
   justify-content: space-around;

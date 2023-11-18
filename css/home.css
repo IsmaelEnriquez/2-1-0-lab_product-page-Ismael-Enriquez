@@ -1,12 +1,10 @@
 h1 {
-  border: 1px solid blueviolet;
   display: flex;
   justify-content: center;
   padding: 1rem;
 }
 
 .email-container {
-  border: 1px solid black;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -27,13 +25,11 @@ button {
 }
 
 .service-container {
-  border: 1px solid aqua;
   padding: 4rem;
 }
 
 
 .video-container {
-  border: 1px solid brown;
   display: flex;
   padding: 0;
   justify-content: center;
